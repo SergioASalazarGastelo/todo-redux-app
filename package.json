@@ -20,6 +20,8 @@
     "@angular/platform-browser": "^12.1.0",
     "@angular/platform-browser-dynamic": "^12.1.0",
     "@angular/router": "^12.1.0",
+    "@ngrx/store": "^12.1.0",
+    "@ngrx/store-devtools": "^12.1.0",
     "core-js": "^2.5.4",
     "rxjs": "~6.6.7",
     "todomvc-app-css": "^2.4.1",
